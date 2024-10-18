@@ -1,3 +1,5 @@
-[myhosts]
+[webservers]
 10.7.220.151
+
+[databases]
 10.7.220.152 
